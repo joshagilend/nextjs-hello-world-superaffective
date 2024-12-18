@@ -1,3 +1,11 @@
+# 👋 Hey, It's Your Friendly Developer Josh 
+
+### I love Next.js. One of my favorite apps for React.
+
+#### If you're just starting in your developer journey, check out this tutorial to build your first React app. I use Render and I think you should too :)
+
+###### Fuck Vercel :)
+
 # Next.js Hello World
 
 
